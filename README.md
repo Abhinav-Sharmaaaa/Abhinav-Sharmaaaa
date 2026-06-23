@@ -6,7 +6,6 @@
 * 🌍  I'm based in Roorkee
 * 🖥️  See my portfolio at [Here](http://abhinav.is-a.dev)
 * ✉️  You can contact me at [abhinav2654@gmail.com](mailto:abhinav2654@gmail.com)
-* 🚀  I'm currently working on [Flutter Notes App](http://github.com/Abhinav-Sharmaaaa/Notes-App)
 * 🧠  I'm currently learning AI/ML
 * 👥  I'm looking to collaborate on Anything
 
