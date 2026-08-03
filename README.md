@@ -39,25 +39,3 @@
   <a href="https://www.linkedin.com/in/abhinav-sharma-0358002b4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> 
   <a href="https://www.stackoverflow.com/users/24569218" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-<p align="left">
-  <a href="http://www.github.com/Abhinav-Sharmaaaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Sharmaaaa&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Abhinav's GitHub stats" />
-  </a>
-  <a href="https://github.com/Abhinav-Sharmaaaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Sharmaaaa&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-
-<b>Top Repositories</b>
-<p align="left">
-  <a href="https://github.com/Abhinav-Sharmaaaa/Count-It">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Sharmaaaa&repo=Count-It&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Count-It Repo" />
-  </a>
-  <a href="https://github.com/Abhinav-Sharmaaaa/Face-Recognition-Attendance-App">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Sharmaaaa&repo=Face-Recognition-Attendance-App&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Face Recognition App Repo" />
-  </a>
-</p>
